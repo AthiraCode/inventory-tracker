@@ -162,7 +162,7 @@ export default function Home() {
         <DialogTitle>Item Already Exists</DialogTitle>
         <DialogContent>
           <DialogContentText>
-            The item "{existingItem?.name}" already exists in the inventory. Do you want to increase its quantity?
+          The item &quot;{existingItem?.name}&quot; already exists in the inventory. Do you want to increase its quantity?
           </DialogContentText>
         </DialogContent>
         <DialogActions>
